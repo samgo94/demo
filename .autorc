@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "samgo94",
+  "repo": "demo",
+  "name": "samgo94",
+  "email": "samgo94@proton.me",
+}
